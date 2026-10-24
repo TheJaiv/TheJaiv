@@ -23,6 +23,7 @@ CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist
 I write C++ and Python myself, mostly for competitive programming and DSA. For larger products I use AI-assisted development: I design the system, direct Claude, and review and debug what it writes.
 
 **Languages:** C++ · Python · C
+
 **Learning:** Reinforcement learning
 
 ### Find me
