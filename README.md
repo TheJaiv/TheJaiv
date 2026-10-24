@@ -14,7 +14,7 @@ CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist
 
 ### Wins
 
-- **1st place**, Hidden Hand: Freshers' Algorithmic Strategy Event, The Quant Club, IIT (BHU), 2026
+-  Hidden Hand: Freshers' Algorithmic Strategy Event, The Quant Club, IIT (BHU), 2026
 - **Winner**, Dark0de cybersecurity freshers' competition (LLM prompt injection, OSINT, audio challenges)
 - **eYRC 2026–27** (e-Yantra, IIT Bombay): PacBot theme, currently in Stage 2
 
