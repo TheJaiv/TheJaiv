@@ -7,6 +7,7 @@ CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist
 | Project | What it does | Used by |
 | --- | --- | --- |
 | [CricVerse](https://github.com/TheJaiv/CricVerse) | Ball-by-ball cricket simulation bot for Discord: T20/ODI/Test, tournaments, drafts, player careers | 7–8 servers, ~100 active players |
+| [LEMMAGEDDON](https://github.com/TheJaiv/LEMMAGEDDON) | RL environment for LLM agents: a train-booking world with a verifier that can't be gamed (0 of 42,389 cheat attempts got through) | Hackathon judges; GPT-Luna solved 40 of 44 runs |
 | [CR Election App](https://github.com/TheJaiv/cr-election-app) | Google sign-in voting app for class representative elections | 150 voters in our class election |
 | Road to Violet | Daily competitive programming planner built around the real Codeforces contest calendar | My own daily training |
 | [CGDrop Bot](https://github.com/TheJaiv/cgdrop-bot) | Discord bot for drop reminders and player auctions | Active servers |
@@ -14,6 +15,7 @@ CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist
 
 ### Wins
 
+- **Top 10**, RL Hackathon 2026 with LEMMAGEDDON, the only first-year team in the top 10
 -  Hidden Hand: Freshers' Algorithmic Strategy Event, The Quant Club, IIT (BHU), 2026
 - **Winner**, Dark0de cybersecurity freshers' competition (LLM prompt injection, OSINT, audio challenges)
 - **eYRC 2026–27** (e-Yantra, IIT Bombay): PacBot theme, currently in Stage 2
