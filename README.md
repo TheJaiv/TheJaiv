@@ -1,12 +1,13 @@
 ## Hi, I'm Jaiv
 
-CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist, 1433) who builds bots and tools that people actually use, often with AI as a co-developer.
+CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist, 1515) who builds bots and tools that people actually use, often with AI as a co-developer.
 
 ### What I've built
 
 | Project | What it does | Used by |
 | --- | --- | --- |
 | [CricVerse](https://github.com/TheJaiv/CricVerse) | Ball-by-ball cricket simulation bot for Discord: T20/ODI/Test, tournaments, drafts, player careers | 7–8 servers, ~100 active players |
+| [AuxiCompass](https://github.com/Kshitij-Prakash10/LemmaCore) | Offline decision-support tool for loco pilots after an auxiliary converter failure: physics advisor plus fault classifier, built with Claude Code. Tested in simulation with assumed loco values; real metro compressor data used as a proxy | Won 2nd place at Node Quest 2026 |
 | [LEMMAGEDDON](https://github.com/TheJaiv/LEMMAGEDDON) | RL environment for LLM agents: a train-booking world with a verifier that can't be gamed (0 of 42,389 cheat attempts got through) | Hackathon judges; GPT-Luna solved 40 of 44 runs |
 | [CR Election App](https://github.com/TheJaiv/cr-election-app) | Google sign-in voting app for class representative elections | 150 voters in our class election |
 | Road to Violet | Daily competitive programming planner built around the real Codeforces contest calendar | My own daily training |
@@ -15,6 +16,7 @@ CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist
 
 ### Wins
 
+- **Won 2nd place**, Node Quest 2026 (IEEE IES Student Branch, IIT BHU) with AuxiCompass, team LemmaCore
 - **Top 10**, RL Hackathon 2026 with LEMMAGEDDON, the only first-year team in the top 10
 -  Hidden Hand: Freshers' Algorithmic Strategy Event, The Quant Club, IIT (BHU), 2026
 - **Winner**, Dark0de cybersecurity freshers' competition (LLM prompt injection, OSINT, audio challenges)
