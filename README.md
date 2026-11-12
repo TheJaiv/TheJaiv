@@ -1,6 +1,6 @@
 ## Hi, I'm Jaiv
 
-CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist, 1515) who builds bots and tools that people actually use, often with AI as a co-developer.
+CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist, 1555) who builds bots and tools that people actually use, often with AI as a co-developer.
 
 ### What I've built
 
