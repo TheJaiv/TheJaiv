@@ -10,7 +10,7 @@ CSE '30 at **IIT (BHU) Varanasi**. Competitive programmer (Codeforces Specialist
 | [AuxiCompass](https://github.com/Kshitij-Prakash10/LemmaCore) | Offline decision-support tool for loco pilots after an auxiliary converter failure: physics advisor plus fault classifier, built with Claude Code. Tested in simulation with assumed loco values; real metro compressor data used as a proxy | Won 2nd place at Node Quest 2026 |
 | [LEMMAGEDDON](https://github.com/TheJaiv/LEMMAGEDDON) | RL environment for LLM agents: a train-booking world with a verifier that can't be gamed (0 of 42,389 cheat attempts got through) | Hackathon judges; GPT-Luna solved 40 of 44 runs |
 | [CR Election App](https://github.com/TheJaiv/cr-election-app) | Voting app for class representative elections. I set up the Google Sheets API, Google sign-in and Vercel hosting; Claude wrote the front end and back end | 150 voters in our class election |
-| Road to Violet | Daily competitive programming planner built around the real Codeforces contest calendar. My idea and resources; code written mainly with AI | My own daily training |
+| [Road to Violet](https://sajax.tech) | Daily competitive programming planner built around the real Codeforces contest calendar. My idea and resources; code written mainly with AI | My own daily training |
 | [CGDrop Bot](https://github.com/TheJaiv/cgdrop-bot) | Discord bot for drop reminders and player auctions | Active servers |
 | [DayFlow](https://github.com/TheJaiv/DayFlow) | Tasks, timetable and habit streaks across web, iOS and Android from one codebase | In development |
 
